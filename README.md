@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello world, I'm Dee 👋
+
+Product Specialist by day and rookie Data Analyst at night ✨ I spent the last 3 months of 2024 learning new skills: python, SQL, data viz. 
+
+- 📫 I write sometimes: [theredeedoes.substack.com](https://theredeedoes.substack.com) 
+- ⚡ Fun facts:
+     - Avid traveler
+     - Introvert
+     - I speak 3 languages: English, German, Tagalog
 
 <!--
 **dpaje9/dpaje9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
