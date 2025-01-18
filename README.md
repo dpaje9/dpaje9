@@ -2,7 +2,7 @@
 
 Product Specialist by day and rookie Data Analyst at night ✨ I spent the last 3 months of 2024 learning new skills: python, SQL, data viz. 
 
-- 📫 I write sometimes: [theredeedoes.substack.com](https://theredeedoes.substack.com) 
+- 📫 I write: [Take Aways](https://theredeedoes.substack.com/), a newsletter where I write stories from my travels, share tips and hacks, and about life abroad in Berlin.
 - ⚡ Fun facts:
      - Avid traveler
      - Introvert
