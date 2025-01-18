@@ -6,6 +6,7 @@ Product Specialist by day and rookie Data Analyst at night ✨ I spent the last 
 - ⚡ Fun facts:
      - Avid traveler
      - Introvert
+     - Passionate about sustainability & climate
      - I speak 3 languages: English, German, Tagalog
 
 <!--
